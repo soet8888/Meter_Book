@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "96959650637",
+    "project_id": "meter-book",
+    "storage_bucket": "meter-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96959650637:android:7eabad7126c05661ffb504",
+        "android_client_info": {
+          "package_name": "com.meterbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96959650637-ad89kqfa788out8141kv29mnldosekjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meterbook",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "96959650637-469ium385h3htmlu2r2h80hjh0knp6pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-pyThfV-we09FySnJV398VmaGPKHhXNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96959650637-469ium385h3htmlu2r2h80hjh0knp6pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
